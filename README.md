@@ -1,5 +1,7 @@
 # OpenStack
 ![Logo Openstack](./img/logo.png)
+
+
 OpenStack is a set of software components that provide common services for cloud infrastructure.
 
 ## Índice
